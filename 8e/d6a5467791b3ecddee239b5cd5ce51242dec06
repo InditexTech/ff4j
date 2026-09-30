@@ -1,0 +1,16 @@
+ff4j-aop/src/main/java/org/ff4j/spring/autowire/AutowiredFF4JBeanPostProcessor.java
+  h_19ae496347280f 29-33,35,48-53,57-58,66,70-126,258-259,268,272-273,282
+ff4j-aop/src/test/java/org/ff4j/spring/autowire/AutowiredFF4JBeanPostProcessorEarlyInitializationTest.java
+  h_19ae496347280f 1-185
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8ed6a5467791b3ecddee239b5cd5ce51242dec06",
+  "prompts": {},
+  "humans": {
+    "h_19ae496347280f": {
+      "author": "Fernando Blanch Calvete <fernandobc@ext.inditex.com>"
+    }
+  }
+}
